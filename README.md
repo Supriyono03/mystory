@@ -11,12 +11,6 @@
         <div class="start">
             <a href="index.html">Supri yono</a>
         </div>
-        <div class="end">
-            <a href="unduh.html">Unduh</a>
-            <a href="karya.html">Karya</a>
-            <a href="kontak.html">Kontak</a>
-            <a href="tentang.html">Tentang</a>
-        </div>
     </nav>
 
     <br><br>
@@ -28,7 +22,7 @@
                 alt="profil saya"
             >
             <figcaption>Supri yono</figcaption>
-            <strong>(1910031802055)</strong>
+            <strong>(STI202102222)</strong>
         </figure>
     </header>
 
